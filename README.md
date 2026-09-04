@@ -97,7 +97,7 @@ This line already auto-detects your OS — **no manual change needed**. On Windo
 
 ---
 
-## Config (top of `steering_wheel.py`)
+## Config (top of `AIR-MOVE-CAR.py`)
 
 | Setting | Default | Description |
 |---------|---------|-------------|
