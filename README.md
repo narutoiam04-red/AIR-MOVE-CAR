@@ -88,7 +88,7 @@ This line already auto-detects your OS — **no manual change needed**. On Windo
    python AIR-MOVE-CAR.py
    ```
 
-4. If the camera doesn't open, try changing `CAMERA_INDEX` at the top of `steering_wheel.py`:
+4. If the camera doesn't open, try changing `CAMERA_INDEX` at the top of `AIR-MOVE-CAR.py`:
    ```python
    CAMERA_INDEX = 0   # try 0, 1, or 2
    ```
