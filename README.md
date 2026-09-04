@@ -47,7 +47,7 @@ pip install mediapipe opencv-python pynput numpy
 ## Run
 
 ```bash
-python3 steering_wheel.py
+python3 AIR-MOVE-CAR.py
 ```
 
 Press **Q** in the camera window to quit.
@@ -66,11 +66,11 @@ This project was built and tested on **macOS (Apple M2)**. On macOS you must gra
 
 ## Windows Setup
 
-The script works on Windows with **one small change**. Open `steering_wheel.py` and find this line:
+The script works on Windows with **one small change**. Open `AIR-MOVE-CAR.py` and find this line:
 
 ```python
 backend = cv2.CAP_AVFOUNDATION if platform.system() == "Darwin" else cv2.CAP_ANY
-```
+```  MOST LIKELY THE ERROR NOT OCCUR FIRST RUN IT NORMALLY IF NOT WORKED THEN TRY THIS WAY
 
 This line already auto-detects your OS — **no manual change needed**. On Windows it will automatically use `cv2.CAP_ANY` (DirectShow/MSMF).
 
