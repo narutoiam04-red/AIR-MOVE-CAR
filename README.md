@@ -85,7 +85,7 @@ This line already auto-detects your OS — **no manual change needed**. On Windo
 
 3. Run:
    ```bash
-   python steering_wheel.py
+   python AIR-MOVE-CAR.py
    ```
 
 4. If the camera doesn't open, try changing `CAMERA_INDEX` at the top of `steering_wheel.py`:
