@@ -4,7 +4,7 @@ Control any car game using your hands as a steering wheel — no hardware needed
 
 #  Virtual Steering Wheel
 
-Control any car game using your hands as a steering wheel — no hardware needed. Just your webcam.
+Control any car game using your hands in air as a steering wheel — no hardware needed. Just your webcam.
 
 ---
 
